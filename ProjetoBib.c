@@ -33,7 +33,7 @@ void crialista(void){
 int menu(void){	
 	int escolha = 0;
 	do{
-		printf("\n\n\n===== Supermercado do Mariltão =====\n");
+		printf("\n\n\n===== Supermercado =====\n");
 		printf("1. Realizar uma compra;\n");
         printf("2. Remover mercadoria do estoque;\n");
 		printf("3. Cadastrar uma nova mercadoria;\n");
