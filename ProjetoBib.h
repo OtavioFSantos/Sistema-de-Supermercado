@@ -1,0 +1,11 @@
+int menu(void);
+void crialista(void);
+void compra(void);
+void remover(void);
+void cadastrar(void);
+void atualizar(void);
+void verifica(void);
+void tamanho(void);
+void attTamanho(void);
+struct ListaProd *criarCadeia(void);
+void limparMemoria(struct ListaProd *lista);
